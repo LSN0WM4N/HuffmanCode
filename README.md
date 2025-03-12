@@ -1,6 +1,6 @@
 # Huffman coding project
 
-This is a simple project about (Huffman Coding)[https://en.wikipedia.org/wiki/Huffman_coding]. The Huffman code is a lossless compression algorithm.
+This is a simple project about [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding). The Huffman code is a lossless compression algorithm.
 
 
 To compile it use the command
