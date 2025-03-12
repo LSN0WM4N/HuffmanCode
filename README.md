@@ -4,9 +4,13 @@ This is a simple project about [Huffman Coding](https://en.wikipedia.org/wiki/Hu
 
 
 To compile it use the command
+    
     g++ Huffman.cpp main.cpp -o huffman
+
 and 
+
     ./huffman 
+
 to execute
 
 ## Usage 
